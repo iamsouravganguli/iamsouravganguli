@@ -7,6 +7,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://ko-fi.com/iamsouravganguli)
 <!---
 iamsouravganguli/iamsouravganguli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
