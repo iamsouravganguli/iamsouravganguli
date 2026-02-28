@@ -48,31 +48,6 @@
 
 ---
 
-## Notes on the Mantras
-
-These are two **Brahma Gāyatrī mantras**, structured in the classic Gāyatrī meter
-(24 syllables across three pādas). Both follow the three-part meditative arc:
-
-| Pāda | Sanskrit | Meaning |
-|------|----------|---------|
-| First | *vidmahe* | We seek to know |
-| Second | *dhīmahi* | We meditate upon |
-| Third | *prachodayāt* | May [that] inspire us |
-
-### On Hiraṇyagarbha
-
-One of the oldest cosmological concepts in the Vedas, appearing in the **Ṛgveda (10.121)**.
-The "Golden Womb" or "Golden Egg" represents the primordial source from which all creation
-emerges — an ancient and poetic conceptualization of cosmic origin.
-
-### On Caturmukha (The Four-Faced)
-
-Brahmā's four faces are traditionally said to represent the **four Vedas**, the
-**four directions**, and the **four yugas** simultaneously — making him the embodiment
-of totality and omniscience.
-
----
-
 <div style="text-align: center; font-style: italic; margin-top: 2em;">
 ✨ *May knowledge, clarity & creativity always guide your code.* ✨
 </div>
